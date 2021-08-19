@@ -1,2 +1,2 @@
-# PracticeProject-1-Weather
+# Project-1-Weather
 It consist of basic python commands on Weather Data.
